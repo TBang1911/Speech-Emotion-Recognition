@@ -83,7 +83,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/speech_emotion_recognition.ipynb
 ```
 
-> **Lưu ý:** Notebook được phát triển trên **Kaggle**. Nếu chạy ở môi trường local, cần tải dataset **RAVDESS** và chỉnh lại đường dẫn `data_dir`.
+
 
 ---
 
